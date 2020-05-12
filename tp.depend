@@ -1,0 +1,174 @@
+# depslib dependency file v1.0
+1545958564 source:c:\users\utilizador\documents\gitprojects\poo1819\bombardeiro.cpp
+	"Bombardeiro.h"
+
+1545948455 c:\users\utilizador\documents\gitprojects\poo1819\bombardeiro.h
+	"Navio.h"
+
+1545962192 c:\users\utilizador\documents\gitprojects\poo1819\navio.h
+	<string>
+	"Porao.h"
+	"Posicao.h"
+
+1542201456 source:c:\users\utilizador\documents\gitprojects\poo1819\celula.cpp
+	"Celula.h"
+	"Porto.h"
+	"Mar.h"
+	"Terra.h"
+
+1542201456 c:\users\utilizador\documents\gitprojects\poo1819\celula.h
+	"Terreno.h"
+
+1545958564 c:\users\utilizador\documents\gitprojects\poo1819\terreno.h
+	"Navio.h"
+	"Mundo.h"
+	"Posicao.h"
+
+1545958564 c:\users\utilizador\documents\gitprojects\poo1819\porto.h
+	"Terreno.h"
+
+1545334058 c:\users\utilizador\documents\gitprojects\poo1819\mar.h
+	"Terreno.h"
+
+1545958564 c:\users\utilizador\documents\gitprojects\poo1819\terra.h
+	"Terreno.h"
+
+1542925396 source:c:\users\utilizador\documents\gitprojects\poo1819\consola.cpp
+	"consola.h"
+	<windows.h>
+	<stdio.h>
+
+1542925407 c:\users\utilizador\documents\gitprojects\poo1819\consola.h
+	<windows.h>
+
+1545399601 source:c:\users\utilizador\documents\gitprojects\poo1819\escuna.cpp
+	"Escuna.h"
+
+1545399601 c:\users\utilizador\documents\gitprojects\poo1819\escuna.h
+	"Navio.h"
+
+1545958564 source:c:\users\utilizador\documents\gitprojects\poo1819\fragata.cpp
+	"Fragata.h"
+
+1545948455 c:\users\utilizador\documents\gitprojects\poo1819\fragata.h
+	"Navio.h"
+
+1545958564 source:c:\users\utilizador\documents\gitprojects\poo1819\galeao.cpp
+	"Galeao.h"
+
+1545948455 c:\users\utilizador\documents\gitprojects\poo1819\galeao.h
+	"Navio.h"
+
+1545947525 source:c:\users\utilizador\documents\gitprojects\poo1819\jogador.cpp
+	"Jogador.h"
+	<sstream>
+	"Navio.h"
+
+1545962192 c:\users\utilizador\documents\gitprojects\poo1819\jogador.h
+	<string>
+	<vector>
+
+1545334058 source:c:\users\utilizador\documents\gitprojects\poo1819\mar.cpp
+	"Mar.h"
+
+1545334058 source:c:\users\utilizador\documents\gitprojects\poo1819\porto.cpp
+	"Porto.h"
+
+1545957075 source:c:\users\utilizador\documents\gitprojects\poo1819\ecra.cpp
+	"Ecra.h"
+	"Consola.h"
+	"Mundo.h"
+	"Jogador.h"
+	"Terreno.h"
+	<iostream>
+
+1545957075 c:\users\utilizador\documents\gitprojects\poo1819\ecra.h
+	<string>
+	<vector>
+
+1545962192 c:\users\utilizador\documents\gitprojects\poo1819\mundo.h
+	"Navio.h"
+	"Terreno.h"
+	<vector>
+
+1545957075 source:c:\users\utilizador\documents\gitprojects\poo1819\interacao.cpp
+	"Interacao.h"
+	"Consola.h"
+	"Jogador.h"
+	<iostream>
+	<sstream>
+	<fstream>
+
+1545957075 c:\users\utilizador\documents\gitprojects\poo1819\interacao.h
+	"Gravacoes.h"
+	"Ecra.h"
+	<string>
+
+1545950533 source:c:\users\utilizador\documents\gitprojects\poo1819\main.cpp
+	<cstdlib>
+	<iostream>
+	"Interacao.h"
+
+1545422899 source:c:\users\utilizador\documents\gitprojects\poo1819\navio.cpp
+	"Navio.h"
+	"Mundo.h"
+	"Terreno.h"
+	"Mar.h"
+	"Terra.h"
+	"Porto.h"
+
+1545958564 c:\users\utilizador\documents\gitprojects\poo1819\veleiro.h
+	"Navio.h"
+	"Mundo.h"
+
+1545334058 source:c:\users\utilizador\documents\gitprojects\poo1819\terra.cpp
+	"Terra.h"
+
+1545948455 source:c:\users\utilizador\documents\gitprojects\poo1819\terreno.cpp
+	"Terreno.h"
+
+1545958564 source:c:\users\utilizador\documents\gitprojects\poo1819\veleiro.cpp
+	"Veleiro.h"
+	"Mundo.h"
+	"Auxiliar.h"
+
+1545419487 source:c:\users\utilizador\documents\gitprojects\poo1819\mundo.cpp
+	"Mundo.h"
+	"Jogador.h"
+	"Veleiro.h"
+	"Galeao.h"
+	"Escuna.h"
+	"Fragata.h"
+	"Bombardeiro.h"
+	"Terreno.h"
+	"Terra.h"
+	"Mar.h"
+	"Porto.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1545948503 source:c:\users\utilizador\documents\gitprojects\poo1819\auxiliar.cpp
+	"Auxiliar.h"
+	"Posicao.h"
+	<cstdlib>
+	<random>
+	<ctime>
+	<cmath>
+
+1545948455 c:\users\utilizador\documents\gitprojects\poo1819\auxiliar.h
+	<vector>
+
+1545948455 c:\users\utilizador\documents\gitprojects\poo1819\posicao.h
+
+1545948455 source:c:\users\utilizador\documents\gitprojects\poo1819\posicao.cpp
+	"Posicao.h"
+
+1545958564 c:\users\utilizador\documents\gitprojects\poo1819\porao.h
+
+1545948455 c:\users\utilizador\documents\gitprojects\poo1819\gravacoes.h
+	"Mundo.h"
+
+1545958564 source:c:\users\utilizador\documents\gitprojects\poo1819\porao.cpp
+	"Porao.h"
+

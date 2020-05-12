@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>Auxiliar.h</itemPath>
+      <itemPath>Consola.h</itemPath>
+      <itemPath>Ecra.h</itemPath>
+      <itemPath>Escuna.h</itemPath>
+      <itemPath>Fragata.h</itemPath>
+      <itemPath>Galeao.h</itemPath>
+      <itemPath>Gravacoes.h</itemPath>
+      <itemPath>Implacavel.h</itemPath>
+      <itemPath>Interacao.h</itemPath>
+      <itemPath>Jogador.h</itemPath>
+      <itemPath>Mar.h</itemPath>
+      <itemPath>Mundo.h</itemPath>
+      <itemPath>Navio.h</itemPath>
+      <itemPath>Porao.h</itemPath>
+      <itemPath>Porto.h</itemPath>
+      <itemPath>Posicao.h</itemPath>
+      <itemPath>Terra.h</itemPath>
+      <itemPath>Terreno.h</itemPath>
+      <itemPath>Veleiro.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Auxiliar.cpp</itemPath>
+      <itemPath>Consola.cpp</itemPath>
+      <itemPath>Ecra.cpp</itemPath>
+      <itemPath>Escuna.cpp</itemPath>
+      <itemPath>Fragata.cpp</itemPath>
+      <itemPath>Galeao.cpp</itemPath>
+      <itemPath>Gravacoes.cpp</itemPath>
+      <itemPath>Implacavel.cpp</itemPath>
+      <itemPath>Interacao.cpp</itemPath>
+      <itemPath>Jogador.cpp</itemPath>
+      <itemPath>Mar.cpp</itemPath>
+      <itemPath>Mundo.cpp</itemPath>
+      <itemPath>Navio.cpp</itemPath>
+      <itemPath>Porao.cpp</itemPath>
+      <itemPath>Porto.cpp</itemPath>
+      <itemPath>Posicao.cpp</itemPath>
+      <itemPath>Terra.cpp</itemPath>
+      <itemPath>Terreno.cpp</itemPath>
+      <itemPath>Veleiro.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+      <itemPath>comandos.txt</itemPath>
+      <itemPath>configuracoes.txt</itemPath>
+      <itemPath>configuracoes_prof.txt</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <standard>8</standard>
+        </ccTool>
+      </compileType>
+      <item path="Auxiliar.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Auxiliar.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Consola.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Consola.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ecra.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ecra.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Escuna.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Escuna.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Fragata.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Fragata.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Galeao.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Galeao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gravacoes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gravacoes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Implacavel.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Implacavel.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Interacao.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Interacao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Jogador.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Jogador.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Mar.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Mar.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Mundo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Mundo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Navio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Navio.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Porao.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Porao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Porto.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Porto.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Posicao.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Posicao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Terra.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Terra.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Terreno.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Terreno.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Veleiro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Veleiro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <standard>8</standard>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Auxiliar.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Auxiliar.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Consola.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Consola.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ecra.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ecra.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Escuna.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Escuna.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Fragata.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Fragata.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Galeao.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Galeao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gravacoes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gravacoes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Implacavel.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Implacavel.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Interacao.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Interacao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Jogador.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Jogador.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Mar.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Mar.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Mundo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Mundo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Navio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Navio.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Porao.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Porao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Porto.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Porto.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Posicao.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Posicao.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Terra.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Terra.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Terreno.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Terreno.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Veleiro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Veleiro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

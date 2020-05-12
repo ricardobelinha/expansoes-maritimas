@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="tp" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/tp" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++14" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/tp" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Auxiliar.cpp" />
+		<Unit filename="Auxiliar.h" />
+		<Unit filename="Bombardeiro.cpp" />
+		<Unit filename="Bombardeiro.h" />
+		<Unit filename="Consola.cpp" />
+		<Unit filename="Consola.h" />
+		<Unit filename="Ecra.cpp" />
+		<Unit filename="Ecra.h" />
+		<Unit filename="Escuna.cpp" />
+		<Unit filename="Escuna.h" />
+		<Unit filename="Fragata.cpp" />
+		<Unit filename="Fragata.h" />
+		<Unit filename="Galeao.cpp" />
+		<Unit filename="Galeao.h" />
+		<Unit filename="Interacao.cpp" />
+		<Unit filename="Interacao.h" />
+		<Unit filename="Jogador.cpp" />
+		<Unit filename="Jogador.h" />
+		<Unit filename="Mar.cpp" />
+		<Unit filename="Mar.h" />
+		<Unit filename="Mundo.cpp" />
+		<Unit filename="Mundo.h" />
+		<Unit filename="Navio.cpp" />
+		<Unit filename="Navio.h" />
+		<Unit filename="Porao.cpp" />
+		<Unit filename="Porao.h" />
+		<Unit filename="Porto.cpp" />
+		<Unit filename="Porto.h" />
+		<Unit filename="Posicao.cpp" />
+		<Unit filename="Posicao.h" />
+		<Unit filename="Terra.cpp" />
+		<Unit filename="Terra.h" />
+		<Unit filename="Terreno.cpp" />
+		<Unit filename="Terreno.h" />
+		<Unit filename="Veleiro.cpp" />
+		<Unit filename="Veleiro.h" />
+		<Unit filename="comandos.txt" />
+		<Unit filename="configuracoes.txt" />
+		<Unit filename="configuracoes_prof.txt" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
